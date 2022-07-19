@@ -40,7 +40,7 @@
     "productName": "รับได้เพ",
     "unitPrice": "Mobile Application",
     "thumbnail": "https://res.cloudinary.com/satjay/image/upload/v1634315972/my_folder/my_sub_folder/n0lwxxxpi4iyvr8xokrr.png",
-    "url": "https://apps.apple.com/th/app/rabdaipay/id1514941787?l=th"
+    "url": "https://play.google.com/store/apps/details?id=com.thaipbschpeng.jayshowloaction"
     },
     {
       "id": 7,
@@ -86,10 +86,10 @@
     },
     {
       "id": 13,
-      "productName": "ThaiPBS Blogger",
-      "unitPrice": "web blog คัมภีร์แห่งการแก้ไขปัญหา และ การซ่อมบำรุง",
-      "thumbnail": "https://res.cloudinary.com/satjay/image/upload/v1658202631/my_folder/my_sub_folder/ek5i93vchv8rvp3exrf4.png",
-      "url": "https://frontend-thaipbs-blog-app.vercel.app/"
+      "productName": "แชทบอทAntnedee",
+      "unitPrice": "แชทบอทที่จะทำให้รายงานวัดสัญญาณของคุณเป็นเรื่องง่าย",
+      "thumbnail": "https://res.cloudinary.com/satjay/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1658224104/my_folder/my_sub_folder/l5xkfeonotl2a8qgvpux.png",
+      "url": "https://lin.ee/6K0a0w5"
     }
      
   ]
