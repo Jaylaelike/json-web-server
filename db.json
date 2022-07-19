@@ -68,7 +68,7 @@
       "productName": "โปรแกรม Auto report Diary",
       "unitPrice": "โปรแกรมทำรายงานประจำวันอัตโนมัติ",
       "thumbnail": "https://res.cloudinary.com/satjay/image/upload/v1635662771/my_folder/my_sub_folder/frnbyvvogtj1ribqs3yv.png",
-      "url": "https://thaipbs.sharepoint.com/:f:/s/msteams_d94e67/EsJn2VgF4ydAkMjOb0N6rfcBgwfy9IIG2p5TGupEbYP25Q?e=2Ha21Z"
+      "url": "https://jaylaelike-auto-report-web-application-app-d2w2x5.streamlitapp.com/"
     },
     {
       "id": 11,
@@ -81,10 +81,9 @@
       "id": 12,
       "productName": "ThaiPBS Blogger",
       "unitPrice": "web blog คัมภีร์แห่งการแก้ไขปัญหา และ การซ่อมบำรุง",
-      "thumbnail": "https://res.cloudinary.com/satjay/image/upload/v1653120296/yv2ghgjxqaz8tb2kbvz9.png",
-      "url": "https://thaipbs-web-blog.vercel.app"
+      "thumbnail": "https://res.cloudinary.com/satjay/image/upload/v1658202631/my_folder/my_sub_folder/ek5i93vchv8rvp3exrf4.png",
+      "url": "https://frontend-thaipbs-blog-app.vercel.app/"
     }
      
   ]
 }
-
