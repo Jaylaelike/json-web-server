@@ -90,7 +90,20 @@
       "unitPrice": "แชทบอทที่จะทำให้รายงานวัดสัญญาณของคุณเป็นเรื่องง่าย",
       "thumbnail": "https://res.cloudinary.com/satjay/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1658224104/my_folder/my_sub_folder/l5xkfeonotl2a8qgvpux.png",
       "url": "https://lin.ee/6K0a0w5"
+    },
+    {
+      "id": 14,
+      "productName": "Report Inventory spare part",
+      "unitPrice": "รายงานทรัพย์สินสำรอง",
+      "thumbnail": "https://reviso-wordpress-sites.s3.amazonaws.com/uploads/sites/2/inventory-management-blog.png",
+      "url": "https://thaipbs-my.sharepoint.com/:x:/g/personal/00152_thaipbs_or_th/EagZCBLh3ulIhCsIhdMh7jcBvWqM9X1WO5UW068ROupimg?rtime=6yykptJq2kg"
+    },
+    {
+      "id": 15,
+      "productName": "รายงานติดตามการซ่อมบำรุง",
+      "unitPrice": "รายงานติดตามการซ่อมบำรุง",
+      "thumbnail": "https://as1.ftcdn.net/v2/jpg/02/89/23/18/1000_F_289231841_n4vPcVZsO3s22fx9YkPaNIb2ymZTIufv.jpg",
+      "url": "https://thaipbs-my.sharepoint.com/:x:/g/personal/00152_thaipbs_or_th/EU2x3qJkoE9DgO_Wq5qU2HEB16i_rnGUhSbYkD-Q2LPGTA?e=4%3A1Xdmq7&at=9&CID=cb4ca913-d24a-de36-48dc-5ccee1852355"
     }
-     
   ]
 }
