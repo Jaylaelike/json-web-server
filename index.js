@@ -8,5 +8,4 @@ server.use(middlewares);
 server.use(router);
 
 
-//Run Server 
 server.listen(port);
