@@ -17,4 +17,4 @@ jobs:
           heroku_email: "smarkwisai@gmail.com"
           usedocker: true
           justlogin: true
-      - run: heroku auth:whoami
+      - run: heroku auth:97c6508d-5d9b-4ea5-97a7-8326d8080411
