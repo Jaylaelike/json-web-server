@@ -16,3 +16,5 @@ jobs:
           heroku_app_name: "chp-hub-api"
           heroku_email: "smarkwisai@gmail.com"
           usedocker: true
+          justlogin: true
+      - run: heroku auth:whoami
