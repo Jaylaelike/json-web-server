@@ -1,9 +1,9 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
-const fs = require("fs");
-const filePath = fs.writeFileSync('db.json', JSON.stringify(data));
+// const fs = require("fs");
+// const filePath = fs.writeFileSync('db.json', JSON.stringify(data));
 
-const router = jsonServer.router(filePath);
+const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 
 const port = process.env.PORT || 3001;
