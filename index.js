@@ -1,5 +1,6 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
+const fs = require("fs");
 
 const filePath = fs.writeFileSync('db.json', JSON.stringify(products));
 
