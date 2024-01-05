@@ -5,11 +5,23 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+<<<<<<< HEAD
     "test": "npm start"
+=======
+    "test": "npm start",
+    "json-server": "json-server --watch db.json",
+    "clean": "rimraf ./dist",
+    "build": "npm run clean && babel index.js -d dist"
+>>>>>>> a086527 (add build bablejs.)
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/preset-env": "^7.23.7",
+    "rimraf": "^5.0.5"
   }
 }
