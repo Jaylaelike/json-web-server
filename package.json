@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "npm start"
+    "test": "npm start",
+    "build": "npm run build"
   },
   "author": "",
   "license": "ISC",
