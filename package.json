@@ -7,8 +7,7 @@
     "start": "node index.js",
     "test": "npm start",
     "json-server": "json-server --watch db.json",
-    "clean": "rimraf ./public",
-    "build": "npm run clean && babel index.js -d public"
+    "clean": "rimraf ./public"
   },
   "author": "",
   "license": "ISC",
